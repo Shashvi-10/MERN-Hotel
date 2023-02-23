@@ -1,0 +1,21 @@
+[{
+    "_id": {
+      "$oid": "60c77f40538ed00a34b341b4"
+    },
+    "status": "booked",
+    "room": "OYO Flagship 75243 Metro International",
+    "roomid": "60c20378a1d01551c455ea04",
+    "userid": "60c09cd94a75ad30d0afa843",
+    "fromdate":"2022-12-08T13:38:29.296Z",
+    "todate":"2022-12-15T13:38:29.296Z",
+    "totalamount":"12000",
+    "totaldays":"8",
+    "transactionId":"1234",
+    "createdAt": {
+      "$date": "2022-12-07T13:38:29.296Z"
+    },
+    "updatedAt": {
+      "$date": "2022-12-07T13:38:29.296Z"
+    },
+    "__v": 0
+  }]
